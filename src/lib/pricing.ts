@@ -1,7 +1,7 @@
 import type { CardOrder } from "../types";
 
 export const CARD_PRICE = 4.99;
-export const STAMP_PRICE = 0.83;
+export const STAMP_PRICE = 0.82;
 
 /** How many days before the important date a scheduled card is mailed out. */
 export const SHIP_LEAD_DAYS = 7;
