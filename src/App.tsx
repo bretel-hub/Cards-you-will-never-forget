@@ -50,7 +50,7 @@ export default function App() {
           you. 💌
         </p>
         <p className="footer-fine">
-          $4.99 per card · optional $0.83 forever stamp · cancel anytime.
+          $4.99 per card · optional $0.82 forever stamp · cancel anytime.
         </p>
       </footer>
 

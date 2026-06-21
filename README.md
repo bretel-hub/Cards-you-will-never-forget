@@ -10,7 +10,7 @@ and deliver it yourself — the thoughtful part stays 100% you.
   calendar once.
 - We **mail the card to your door ~1 week ahead** of each date.
 - You **write a heartfelt note** and **deliver it yourself**.
-- **$4.99 per card.** Optional **$0.83 forever stamp** at checkout.
+- **$4.99 per card.** Optional **$0.82 forever stamp** at checkout.
 - **Opt out / cancel any card anytime.**
 
 ## Features

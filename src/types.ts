@@ -19,7 +19,7 @@ export interface CardOrder {
   eventDate: string;
   /** Optional note shown to the customer to jog their memory. */
   note?: string;
-  /** Add a $0.83 forever stamp to this order. */
+  /** Add a $0.82 forever stamp to this order. */
   foreverStamp: boolean;
   /** Repeat this card every year (e.g. birthdays, anniversaries). */
   repeatAnnually: boolean;
